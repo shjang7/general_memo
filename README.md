@@ -33,10 +33,16 @@ $ heroku run rails db:seed
 ```
 
 ##### Rubocop code style check
-```
-$ rubocop --auto-correct   
-$ rubocop --auto-gen-config  
-```
+  - Choose the option one of this below
+  ```
+  $ rubocop -x
+  $ rubocop --auto-correct
+  ```
+
+  - Make exception
+  ```
+  $ rubocop --auto-gen-config  
+  ```
 
 ##### Postgresql restart
 ```
@@ -60,6 +66,15 @@ $ kill -9 [pID]
 config.assets.compile = true
 config.assets.digest = true
 ```
+
+##### Haml
+- [tutorial](http://haml.info/tutorial.html)
+
+##### Nested form
+- with stimulus
+
+##### Active Storage
+- [tutorial](shorturl.at/ehOX2)
 
 # General memo
 ##### Get some dummy texts
