@@ -67,6 +67,11 @@ config.assets.compile = true
 config.assets.digest = true
 ```
 
+##### heroku server reset
+```
+$ heroku pg:reset DATABASE
+```
+
 ##### Haml
 - [tutorial](http://haml.info/tutorial.html)
 
@@ -76,6 +81,9 @@ config.assets.digest = true
 ##### Active Storage
 - [tutorial](shorturl.at/ehOX2)
 
+##### Rails 6 connect bootstrap
+- [tutorial](https://www.youtube.com/watch?v=bn9arlhfaXc)
+
 # General memo
 ##### Get some dummy texts
 ```
@@ -83,6 +91,12 @@ https://hipsum.co
 ```
 
 # CSS memo
+##### gradient picker
+- https://uigradients.com
+
+##### css 3 generator
+- https://css3generator.com/
+
 ##### float with clearfix
 ```
 <div class="clearfix">
