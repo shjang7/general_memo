@@ -9,6 +9,11 @@ $ git config --global --add merge.ff false
 $ git clean -fd
 ```
 
+##### Check git log graph
+```
+$ git log --graph --oneline
+```
+
 # Rails memo
 ##### Rails new default option set
 - postgresql default database / not using minitest / skip coffee auto generating
@@ -33,16 +38,16 @@ $ heroku run rails db:seed
 ```
 
 ##### Rubocop code style check
-  - Choose the option one of this below
-  ```
-  $ rubocop -x
-  $ rubocop --auto-correct
-  ```
+- Choose the option one of this below
+```
+$ rubocop -x
+$ rubocop --auto-correct
+```
 
-  - Make exception
-  ```
-  $ rubocop --auto-gen-config  
-  ```
+- Make exception
+```
+$ rubocop --auto-gen-config  
+```
 
 ##### Postgresql restart
 ```
