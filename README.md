@@ -30,6 +30,11 @@ $ rails db:create
 $ rails db:migrate
 ```
 
+##### After setting back-end environment, check working
+$ curl -H "Content-Type: application/json" -X POST -d '{"username":"1st_user","password":"foobar"}' http://localhost:3001/login
+
+$ curl -H "Content-Type: application/json" -X POST -d '{"username":"2nd_user","password":"foobar"}' http://localhost:3001/login
+
 ##### Push heroku
 ```
 $ heroku git:remote -a [name of heroku app]
