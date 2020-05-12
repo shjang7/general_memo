@@ -9,6 +9,13 @@ $ git config --global --add merge.ff false
 $ git clean -fd
 ```
 
+##### Change previous commit history
+```
+$ git rebase -i --root
+$ git commit --amend
+$ git rebase --continue
+```
+
 ##### Check git log graph
 ```
 $ git log --graph --oneline
