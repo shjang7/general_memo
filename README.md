@@ -108,6 +108,16 @@ https://hipsum.co
 ```
 
 # CSS memo
+##### sass watch
+- basic
+```
+sass --watch scss/style.ss:dist/css/style.css
+```
+- compressed
+```
+sass --watch scss/style.ss:dist/css/style.min.css --style compressed
+```
+
 ##### gradient picker
 - https://uigradients.com
 
