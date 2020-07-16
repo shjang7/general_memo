@@ -21,6 +21,13 @@ $ git rebase --continue
 $ git log --graph --oneline
 ```
 
+# linux commands
+##### find program location
+```
+$ locate -b '\atom'
+```
+
+
 # Rails memo
 ##### Rails new default option set
 - postgresql default database / not using minitest / skip coffee auto generating
