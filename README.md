@@ -27,6 +27,9 @@ $ git log --graph --oneline
 $ locate -b '\atom'
 ```
 
+# Node memo
+##### update method
+- consider to use lodash npm _.merge
 
 # Rails memo
 ##### Rails new default option set
