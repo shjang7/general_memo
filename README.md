@@ -32,7 +32,7 @@ $ locate -b '\atom'
 - consider to use lodash npm _.merge
 
 # API memo
-##### to test api from a website
+##### json placeholder website
 http://jsonplaceholder.typicode.com/
 
 ##### axios
