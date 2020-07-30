@@ -32,7 +32,7 @@ $ locate -b '\atom'
 - consider to use lodash npm _.merge
 
 # API memo
-##### to test fake api: http://jsonplaceholder.typicode.com/
+##### to test api from a website: http://jsonplaceholder.typicode.com/
 
 # Rails memo
 ##### Rails new default option set
