@@ -31,6 +31,9 @@ $ locate -b '\atom'
 ##### update method
 - consider to use lodash npm _.merge
 
+# API memo
+##### to test fake api: http://jsonplaceholder.typicode.com/
+
 # Rails memo
 ##### Rails new default option set
 - postgresql default database / not using minitest / skip coffee auto generating
