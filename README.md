@@ -38,6 +38,9 @@ http://jsonplaceholder.typicode.com/
 ##### axios
 Promise based HTTP client for the browser and node.js
 
+##### async-await
+async means a function returns a resolved Promise. await means wait until the Promise settles and return its result.
+
 # Rails memo
 ##### Rails new default option set
 - postgresql default database / not using minitest / skip coffee auto generating
