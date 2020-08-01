@@ -41,6 +41,10 @@ Promise based HTTP client for the browser and node.js
 ##### async-await
 async means a function returns a resolved Promise. await means wait until the Promise settles and return its result.
 
+# Typescript
+##### Type
+easy way to refer to the different properties + functions that a value has
+
 # Rails memo
 ##### Rails new default option set
 - postgresql default database / not using minitest / skip coffee auto generating
