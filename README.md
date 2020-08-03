@@ -21,6 +21,13 @@ $ git rebase --continue
 $ git log --graph --oneline
 ```
 
+# AWS
+### RDS - PostgreSQL
+- create database with free tier option
+- #connectivity: create new VPC (or set proper VPC setting for rds)
+- #connectivity - additional connectivity configuration - Publicly accessible: yes
+- create button
+
 # linux commands
 ##### find program location
 ```
