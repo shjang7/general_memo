@@ -133,6 +133,9 @@ $ heroku pg:reset DATABASE
 - [tutorial](https://www.youtube.com/watch?v=bn9arlhfaXc)
 
 # General memo
+##### E-R diagram tool
+https://app.lucidchart.com/
+
 ##### Get some dummy texts
 ```
 https://hipsum.co
