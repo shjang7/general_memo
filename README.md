@@ -37,7 +37,7 @@ $ locate -b '\atom'
 # Node memo
 ##### update method
 - consider to use lodash npm _.merge
-- use patch instead of put
+- use put or patch
 
 # API memo
 ##### json placeholder website
