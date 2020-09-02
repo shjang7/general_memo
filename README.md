@@ -53,6 +53,10 @@ async means a function returns a resolved Promise. await means wait until the Pr
 ##### Type
 easy way to refer to the different properties + functions that a value has
 
+# Javascript
+##### Date
+new Date().setHours(now.getHours() + 1);
+
 # Rails memo
 ##### Rails new default option set
 - postgresql default database / not using minitest / skip coffee auto generating
