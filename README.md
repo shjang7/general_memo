@@ -104,8 +104,12 @@ $ sudo service postgresql restart
 
 ##### Server restart
 ```
-$ ps -aef | grep rails    
+$ ps -aef | grep [rails]    
 $ kill -9 [pID]   
+```
+- https://stackoverflow.com/questions/10522532/stop-node-js-program-from-command-line
+```
+$ sudo kill $(sudo lsof -t -i:[3000])
 ```
 
 ##### Rails console save error
