@@ -4,6 +4,12 @@
 $ git config --global --add merge.ff false
 ```
 
+##### Set up pull to rebase instead of merge
+
+```
+$ git config --global pull.rebase true
+```
+
 ##### Remove all untracked files and folders
 ```
 $ git clean -fd
