@@ -1,3 +1,7 @@
+# Express memo
+##### connect db
+https://expressjs.com/en/guide/database-integration.html
+
 # Git memo
 ##### Set always commit for merge
 ```
